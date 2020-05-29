@@ -1,7 +1,7 @@
 # PPL_Assignments_2020
-Name: Onkar Dattatray Kolhe
-Div -1
-Batch: S2
+# Name: Onkar Dattatray Kolhe
+# Div -1
+# Batch: S2
 
 NOTE(Prolog): For this assignment I have used SWI-Prolog.
 
